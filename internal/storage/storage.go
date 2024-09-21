@@ -2,8 +2,8 @@ package storage
 
 import (
 	"fmt"
+	"github.com/Ddarli/storage/internal/file"
 	"github.com/google/uuid"
-	"storage/internal/file"
 )
 
 type Storage struct {
